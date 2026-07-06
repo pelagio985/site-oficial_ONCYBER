@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ONCYBER - Serviços de TI",
+  "description": "Portal corporativo elegante de Serviços de Informática e TI de alta performance. Suporte técnico, segurança, nuvem, infraestrutura e consultoria especializada pela ONCYBER.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
